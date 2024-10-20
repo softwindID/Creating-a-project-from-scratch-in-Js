@@ -1,0 +1,1 @@
+The task in this module is as close to real-life as possible: you need to independently create an application for managing personal finances according to the design mockup and technical specifications.
